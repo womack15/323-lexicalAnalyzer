@@ -1,0 +1,15 @@
+$$
+function doSomething [number:true]
+{
+    return 109.92*(1+1);
+}
+
+$$
+    real num1, num2;
+
+    read(num1, num2);
+    if(false)
+    {
+        print(num1);
+    }endif
+$$

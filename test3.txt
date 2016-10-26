@@ -1,0 +1,27 @@
+$$
+function convert [fahr:integer]
+{
+    return 5 * (fahr - 32 )/9 ;
+}
+
+$$
+    integer low, high, step;
+
+    read(low, high, step);
+    while(low < high)
+    {   print(low);
+        print(convert[low]);
+        low := low + step;
+    }
+
+    if(low == high)
+    {   integer number;
+        number := 4 + 3
+        print(number);
+        return number;
+    }
+
+    print(convert[high]);
+    print(convert[step]);
+    while(fahr<upper)a:=23.00 2zA
+$$
