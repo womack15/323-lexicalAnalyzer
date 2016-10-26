@@ -2,9 +2,7 @@
 Andrew Nguyen
 Joshua Womack
 CPSC323
-Professor Choi
 Assignment 1 - Lexical Analyzer
-Due Date: 2 October 2016
 */
 
 #include <iostream>
